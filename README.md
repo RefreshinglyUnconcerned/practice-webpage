@@ -1,1 +1,1 @@
-# trying to recreate some websites to practice HTML and CSS
+Trying to recreate websites to practice HTML and CSS!
