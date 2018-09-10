@@ -50,7 +50,19 @@ table {
 
 /* Done with reset */
 
-ul li{
+body {
+    font-family: Arial, sans-serif;
+    font-size: small;
+    background-color: #fff;
+    color: #222;
+}
+
+.navigation {
+    height: 30px;
+    float: right;
+}
+
+.navigation li{
     display: inline-block;
     outline: none;
     vertical-align: middle;
@@ -64,11 +76,3 @@ ul li{
     background-size: 528px 68px;
 }
 
-.searchbar {
-    padding: 50px;
-    font-size: 30pt;
-    font-family: sans-serif;
-    float: right;
-    background-color: aqua;
-    border: 5px red solid;
-}
